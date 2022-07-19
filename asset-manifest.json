@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e0908c4.css",
+    "main.js": "/static/js/main.0d198526.js",
+    "static/media/1.png": "/static/media/1.e9e6299c06fb6420dfe6.png",
+    "static/media/about-img.png": "/static/media/about-img.6c8702e678073d0d3d07.png",
+    "static/media/2.png": "/static/media/2.d98dc4d954b38aa09baa.png",
+    "static/media/3.png": "/static/media/3.266cd80eb59ec6274005.png",
+    "static/media/home-img.png": "/static/media/home-img.fe788c0aab6a720e7cb2.png",
+    "static/media/furniture.png": "/static/media/furniture.34682f6015e467a00fa6.png",
+    "static/media/window.jpg": "/static/media/window.e357ce55514fdebb4646.jpg",
+    "static/media/house.jpg": "/static/media/house.148b68ee1087d8d6a398.jpg",
+    "static/media/bathroom.jpg": "/static/media/bathroom.8d89a06a1755326ac4ea.jpg",
+    "index.html": "/index.html",
+    "main.6e0908c4.css.map": "/static/css/main.6e0908c4.css.map",
+    "main.0d198526.js.map": "/static/js/main.0d198526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0908c4.css",
+    "static/js/main.0d198526.js"
+  ]
+}
